@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\Assiment2_NET103\bin\Debug\Assiment2_NET103.exe.config
+C:\Users\Admin\source\repos\Assiment2_NET103\bin\Debug\Assiment2_NET103.exe
+C:\Users\Admin\source\repos\Assiment2_NET103\bin\Debug\Assiment2_NET103.pdb
+C:\Users\Admin\source\repos\Assiment2_NET103\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\Assiment2_NET103\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\Assiment2_NET103\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\Assiment2_NET103\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\Assiment2_NET103\obj\Debug\Assiment2_NET103.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Assiment2_NET103\obj\Debug\Assiment2_NET103.Properties.Resources.resources
+C:\Users\Admin\source\repos\Assiment2_NET103\obj\Debug\Assiment2_NET103.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Assiment2_NET103\obj\Debug\Assiment2_NET103.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Assiment2_NET103\obj\Debug\Assiment2_NET103.csproj.CopyComplete
+C:\Users\Admin\source\repos\Assiment2_NET103\obj\Debug\Assiment2_NET103.exe
+C:\Users\Admin\source\repos\Assiment2_NET103\obj\Debug\Assiment2_NET103.pdb
+C:\Users\Admin\source\repos\Assiment2_NET103\obj\Debug\Assiment2_NET103.Form1.resources
+C:\Users\Admin\source\repos\Assiment2_NET103\obj\Debug\Assiment2_NET103.form2.resources
+C:\Users\Admin\source\repos\Assiment2_NET103\obj\Debug\Assiment2_NET103.Form3.resources
